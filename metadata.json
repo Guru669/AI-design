@@ -1,0 +1,6 @@
+{
+  "name": "Interior AI",
+  "description": "AI-Powered Interior Design Assistant. Space analysis, design style recommendations, budget estimations, and virtual furniture placement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
